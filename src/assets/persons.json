@@ -8632,6 +8632,22 @@
 				"state": "Ontario",
 				"country": "Canada"
 			}
-		}
+		},
+		{
+			"id": 546,
+			"name": "Jasmeet Singh",
+			"img": "https://drive.google.com/uc?id=1ihnps897EdRg7JLH9kewZ2xQuN9Lhc73",
+			"links" : {
+				"website" : "https://jasmeet-portfolio.herokuapp.com/",
+				"linkedin": "https://www.linkedin.com/in/jasmeetsingh88",
+				"github": "https://github.com/thejasmeetsingh"
+			},
+			"jobTitle": "Software Development Engineer",
+			"location" : {
+				"city": "New Delhi",
+				"state": "Delhi",
+				"country": "India"
+			}
+		},
 	]
 }
